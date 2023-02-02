@@ -1,0 +1,25 @@
+h3{
+    text-align: center;
+    font-size: 200%;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(0, 0, 0);
+    background-color:  rosybrown;
+}
+body{
+    background-color: coral;
+    
+
+}
+p{
+    text-align: center;
+    font-size: 150%;
+    font-family: cursive;
+    font-style: oblique;
+}
+form{
+    text-align: center;
+    font-size: larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(199, 128, 212);
+}
+
